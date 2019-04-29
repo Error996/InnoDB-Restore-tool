@@ -5,10 +5,9 @@ InnoDB Restore tool
 
 环境要求：
 
-.net >4.0
-
-mysql >5.6.0
+>.net >4.0
+>mysql >5.6.0
 
 用法：
 
-InnoDBRepair <username> <password> <port> <srcdir> <destDB>
+`InnoDBRepair <username> <password> <port> <srcdir> <destDB>`
